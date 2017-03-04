@@ -1,9 +1,8 @@
 *.zip
 
-*/.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
 
 *.pickle
 __pycache__/*
 *.gz
-*.p
-*/cifar-10-batches-py/*
+*cifar-10-batches-py/*
