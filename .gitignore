@@ -6,3 +6,4 @@
 __pycache__/*
 *.gz
 *cifar-10-batches-py/*
+*.p
